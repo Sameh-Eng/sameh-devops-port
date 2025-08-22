@@ -35,6 +35,7 @@ const Hero = () => {
               variant="outline" 
               size="lg"
               className="border-primary/50 text-primary hover:bg-primary/10 transition-all duration-300"
+              onClick={() => window.open('https://drive.google.com/file/d/1n9s8Yvvdbm_cWofGfhteYxSv_2nerC4l/view?usp=sharing', '_blank')}
             >
               <Download className="mr-2 h-4 w-4" />
               Resume

@@ -85,7 +85,7 @@ const Contact = () => {
                 <Button
                   size="lg"
                   className="bg-gradient-primary hover:shadow-primary transition-all duration-300 transform hover:scale-105"
-                  onClick={() => window.open('mailto:your.email@example.com', '_blank')}
+                  onClick={() => window.open('mailto:sameh.reda@msa.edu.eg', '_blank')}
                 >
                   Send Email
                 </Button>
