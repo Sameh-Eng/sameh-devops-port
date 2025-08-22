@@ -4,31 +4,31 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projectsData = [
   {
-    title: "Kubernetes Cluster Automation",
-    description: "Automated deployment and management of production Kubernetes clusters with monitoring, logging, and auto-scaling capabilities.",
-    technologies: ["Kubernetes", "Terraform", "Prometheus", "Grafana"],
-    githubUrl: "https://github.com/Sameh-Eng",
+    title: "Os Level E-Wallet",
+    description: "Lightweight operating system–integrated e-wallet enabling secure transactions, credential storage, and seamless payment operations at the kernel level.",
+    technologies: ["Security", "Encryption", "sqlite3", "Authentication"],
+    githubUrl: "https://github.com/Sameh-Eng/OS",
     liveUrl: "#"
   },
   {
-    title: "CI/CD Pipeline Framework",
-    description: "Complete CI/CD pipeline solution with automated testing, security scanning, and multi-environment deployment strategies.",
-    technologies: ["Jenkins", "Docker", "SonarQube", "Ansible"],
-    githubUrl: "https://github.com/Sameh-Eng",
+    title: "Flutter E-Commerce App",
+    description: "Cross-platform mobile application for seamless online shopping with product browsing, cart management, secure payments, and order tracking.",
+    technologies: ["Flutter", "Dart", "Firebase", "Stripe API"],
+    githubUrl: "https://github.com/Sameh-Eng/haizzy",
     liveUrl: "#"
   },
   {
-    title: "Infrastructure as Code Templates",
-    description: "Reusable Terraform modules for AWS infrastructure with best practices for security, scalability, and cost optimization.",
-    technologies: ["Terraform", "AWS", "CloudWatch", "Route 53"],
-    githubUrl: "https://github.com/Sameh-Eng",
+    title: "Cyper-Guard AI Chat Bot",
+    description: "A cybersecurity RAG chatbot that uses AI to analyze security documents and provide intelligent threat intelligence responses.",
+    technologies: ["NLP", "FastApi", "Ollama/Llama2", "ChromaDB"],
+    githubUrl: "https://github.com/Aliaa-osama/NTI_FinalProject_Educational_variant_of_WormGPT",
     liveUrl: "#"
   },
   {
-    title: "Monitoring & Alerting System",
-    description: "Comprehensive monitoring solution with custom dashboards, alerting rules, and automated incident response workflows.",
-    technologies: ["Prometheus", "Grafana", "AlertManager", "Slack API"],
-    githubUrl: "https://github.com/Sameh-Eng",
+    title: "School Mangement system using C++",
+    description: "Desktop-based system for managing student records, teacher data, classes, and grades with efficient file handling and a user-friendly interface.",
+    technologies: ["C++", "OOP", "File Handling", "Data Structures"],
+    githubUrl: "https://github.com/Sameh-Eng/ConsoleApplication16",
     liveUrl: "#"
   }
 ];
